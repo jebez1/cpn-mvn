@@ -1,10 +1,10 @@
 # Maintainer: jebez <jeremy.bezairie@gmail.com>
-pkgname=cpn-mvn-bin
+pkgname=cpn-mvn
 pkgver=1
 pkgrel=1
 pkgdesc='Copy or move handling same file name by incremental directory'
 arch=('x86_64')
-url='https://github.com/jebez1/cpn-mvn-bin'
+url='https://github.com/jebez1/cpn-mvn'
 options=('!debug')
 
 build() {
