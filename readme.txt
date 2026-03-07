@@ -14,3 +14,6 @@ E.g.:
 mvn /source/*.txt /dest
 
 Google Gemini Pro helped me for the C++ code.
+
+Since I consider the AUR system stupid https://bbs.archlinux.org/viewtopic.php?id=303639 , here the source & the Arch Linux package, to install:
+sudo pacman -U /a_path/cpn-mvn-1-1-x86_64.pkg.tar.zst
