@@ -11,7 +11,7 @@ If source & directory/N/content same name, copy-paste or move to directory/N+1 t
 I asked to implement in cp & mv https://lists.gnu.org/archive/html/coreutils/2026-02/msg00030.html without success, ignored...
 
 E.g.:
-mvn /source/*.txt /dest
+mvn /home/a/.local/share/Steam/steamapps/common/Half-Life/valve/*.bmp /run/media/a/1637320b-b0c7-4f87-8b85-b635dee9595d/\!/pictures/screenshots/valve
 
 Google Gemini Pro helped me for the C++ code.
 
