@@ -12,3 +12,5 @@ I asked to implement in cp & mv https://lists.gnu.org/archive/html/coreutils/202
 
 E.g.:
 mvn /source/*.txt /dest
+
+Google Gemini Pro helped me for the C++ code.
