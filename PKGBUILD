@@ -1,9 +1,10 @@
-# Maintainer: Your Name <your.email@example.com>
+# Maintainer: jebez <jeremy.bezairie@gmail.com>
 pkgname=cpn-mvn-bin
 pkgver=1
 pkgrel=1
-pkgdesc="Copy or move handling same file name by incremental directory"
+pkgdesc='Copy or move handling same file name by incremental directory'
 arch=('x86_64')
+url='https://github.com/jebez1/cpn-mvn-bin'
 options=('!debug')
 
 build() {
