@@ -15,5 +15,5 @@ mvn /home/a/.local/share/Steam/steamapps/common/Half-Life/valve/*.bmp /run/media
 
 Google Gemini Pro helped me for the C++ code.
 
-Since I consider the AUR system stupid https://bbs.archlinux.org/viewtopic.php?id=303639 , here the source & the Arch Linux package, to install:
+Since the AUR system is stupid https://bbs.archlinux.org/viewtopic.php?id=303639 , here the source & the Arch Linux package, to install:
 sudo pacman -U /a_path/cpn-mvn-1-1-x86_64.pkg.tar.zst
